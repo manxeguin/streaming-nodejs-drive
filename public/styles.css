@@ -40,3 +40,11 @@ a:hover {
   position: relative;
   text-align: center;
 }
+.bangers {
+  font-family: 'Bangers', cursive;
+  font-size: 72px;
+  padding: 0;
+  margin: 0;
+  letter-spacing: 8px;
+  text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
+}
